@@ -16,7 +16,7 @@ Then select it in 4D v19+ [preferences](https://developer.4d.com/docs/Preference
 Open a terminal you can type
 
 ```bash
-curl -sL https://raw.githubusercontent.com/mesopelagique/2077-4d-theme/main/viva-theme.json -o $HOME/Library/Application\ Support/4D/4D\ Editor\ Themes/viva-theme.json
+curl -sL https://raw.githubusercontent.com/mesopelagique/viva-theme/main/viva-theme.json -o $HOME/Library/Application\ Support/4D/4D\ Editor\ Themes/viva-theme.json
 ```
 
 ## Others
