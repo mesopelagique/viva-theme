@@ -30,3 +30,11 @@ https://github.com/mesopelagique/VSThemeConverter
 ### Other components
 
 [<img src="https://mesopelagique.github.io/quatred.png" alt="mesopelagique"/>](https://mesopelagique.github.io/)
+
+### Accent color
+
+To force the pink as accent color for 4D only, in terminal
+
+```bash
+defaults write com.4D.4D AppleAccentColor -int 6
+```
