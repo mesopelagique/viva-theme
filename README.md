@@ -1,5 +1,7 @@
 # Viva Theme
 
+A [viva mangenta](https://www.pantone.com/articles/color-of-the-year/what-is-viva-magenta) 4D code theme to fit with [v20](https://blog.4d.com/4d-v20-beta-starts-today/)
+
 ![Sample](sample.png)
 
 ## To install
