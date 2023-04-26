@@ -4,6 +4,14 @@ A [viva mangenta](https://www.pantone.com/articles/color-of-the-year/what-is-viv
 
 ![Sample](sample.png)
 
+### Accent color
+
+To force the pink as accent color for 4D only, in terminal
+
+```bash
+defaults write com.4D.4D AppleAccentColor -int 6
+```
+
 ## To install
 
 Take JSON files and put them into 4D editor themes folder.
@@ -33,10 +41,4 @@ https://github.com/mesopelagique/VSThemeConverter
 
 [<img src="https://mesopelagique.github.io/quatred.png" alt="mesopelagique"/>](https://mesopelagique.github.io/)
 
-### Accent color
 
-To force the pink as accent color for 4D only, in terminal
-
-```bash
-defaults write com.4D.4D AppleAccentColor -int 6
-```
